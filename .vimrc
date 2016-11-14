@@ -33,3 +33,6 @@ set nowrap " do not allow line wrapping
 set autochdir " always switch to the current file directory
 set visualbell
 set noerrorbells
+
+"Abbreviations
+cabbrev E Explore
