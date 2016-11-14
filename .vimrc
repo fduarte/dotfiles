@@ -31,3 +31,5 @@ set autoindent " this will auto indent closing brackets, for example
 set shiftwidth=4 " auto-indent amount when using cindent or >>, << and stuff like that
 set nowrap " do not allow line wrapping
 set autochdir " always switch to the current file directory
+set visualbell
+set noerrorbells
