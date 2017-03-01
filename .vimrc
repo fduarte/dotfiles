@@ -37,3 +37,4 @@ set noerrorbells
 
 "Abbreviations
 cabbrev E Explore
+command! E Explore
